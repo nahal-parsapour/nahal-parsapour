@@ -2,7 +2,7 @@
 
 AI / Python Developer
 
-I'm currently focused on:
+I'm currently focused on: /n
 • Python
 • Data Analysis
 • Machine Learning
