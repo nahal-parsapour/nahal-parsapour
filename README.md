@@ -7,7 +7,3 @@ I'm currently focused on:
 • Data Analysis
 • Machine Learning
 • AI
-
-### Tech Stack
-Python | ML | SQL | Scikit-learn | Linux
-
